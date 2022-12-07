@@ -1,6 +1,7 @@
 # aws-thumbnail-s3-lambda #
 Sample Code for generate a thumbnail on s3 using lambda and python
 
+## Where to find our [presentation](https://docs.google.com/presentation/d/1DWFaKOZBW1oAzRGZgnkoNOLAbiMeuG0CRSmpLND24l0/edit#slide=id.g1a45cec96f1_0_15).
 
 ## How to compile and deploy ##
 
